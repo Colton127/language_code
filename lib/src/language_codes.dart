@@ -629,6 +629,9 @@ enum LanguageCodes {
   /// code: "zu", name: "Zulu", nativeName: "isiZulu"
   zu("zu", "Zulu", "isiZulu");
 
+  /// unknown language
+  unknown("unknown", "Unknown", "Unknown");
+
   /// Language code.
   ///
   /// Use [locale] if you want to get the current language as `Locale` because
