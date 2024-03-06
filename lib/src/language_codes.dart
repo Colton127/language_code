@@ -627,7 +627,7 @@ enum LanguageCodes {
   zh_TW("zh_TW", "Chinese (traditional)", "繁體中文"),
 
   /// code: "zu", name: "Zulu", nativeName: "isiZulu"
-  zu("zu", "Zulu", "isiZulu");
+  zu("zu", "Zulu", "isiZulu"),
 
   /// unknown language
   unknown("unknown", "Unknown", "Unknown");
