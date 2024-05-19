@@ -2629,6 +2629,45 @@ enum LanguageCodes {
   /// code: "zho_TW", name: "Chinese (Taiwan)", nativeName: "中文(台灣)"
   zho_TW("zho_TW", "Chinese (Taiwan)", "中文(台灣)"),
 
+  /// code: "mni-IN", name: "Meitei (India)", nativeName: "মৈতৈলোন্ (ইন্ডিয়া)"
+mni_IN("mni_IN", "Meitei (India)", "মৈতৈলোন্ (ইন্ডিয়া)"),
+
+/// code: "doi-IN", name: "Dogri (India)", nativeName: "डोगरी (भारत)"
+doi_IN("doi_IN", "Dogri (India)", "डोगरी (भारत)"),
+
+/// code: "sat-IN", name: "Santali (India)", nativeName: "ᱥᱟᱱᱛᱟᱲᱤ (ᱟᱢᱩᱰᱤ)"
+sat_IN("sat_IN", "Santali (India)", "ᱥᱟᱱᱛᱟᱲᱤ (ᱟᱢᱩᱰᱤ)"),
+
+/// code: "brx-IN", name: "Bodo (India)", nativeName: "बर' (भारत)"
+brx_IN("brx_IN", "Bodo (India)", "बर' (भारत)"),
+
+/// code: "doi-IN", name: "Dogri (India)", nativeName: "डोगरी (भारत)"
+doi_IN("doi_IN", "Dogri (India)", "डोगरी (भारत)"),
+
+/// code: "mai-IN", name: "Maithili (India)", nativeName: "मैथिली (भारत)"
+mai_IN("mai_IN", "Maithili (India)", "मैथिली (भारत)"),
+
+/// code: "sat-IN", name: "Santali (India)", nativeName: "ᱥᱟᱱᱛᱟᱲᱤ (ᱟᱢᱩᱰᱤ)"
+sat_IN("sat_IN", "Santali (India)", "ᱥᱟᱱᱛᱟᱲᱤ (ᱟᱢᱩᱰᱤ)"),
+
+/// code: "brx-IN", name: "Bodo (India)", nativeName: "बर' (भारत)"
+brx_IN("brx_IN", "Bodo (India)", "बर' (भारत)"),
+
+/// code: "mni-IN", name: "Meitei (India)", nativeName: "মৈতৈলোন্ (ইন্ডিয়া)"
+mni_IN("mni_IN", "Meitei (India)", "মৈতৈলোন্ (ইন্ডিয়া)"),
+
+/// code: "kok-IN", name: "Konkani (India)", nativeName: "कोंकणी (भारत)"
+kok_IN("kok_IN", "Konkani (India)", "कोंकणी (भारत)"),
+
+/// code: "mai-IN", name: "Maithili (India)", nativeName: "मैथिली (भारत)"
+mai_IN("mai_IN", "Maithili (India)", "मैथिली (भारत)"),
+
+/// code: "kok-IN", name: "Konkani (India)", nativeName: "कोंकणी (भारत)"
+kok_IN("kok_IN", "Konkani (India)", "कोंकणी (भारत)"),
+
+  /// Unknown
+  unknown("Unknown", "Unknown", "Unknown"),
+
   /// code: "zul", name: "Zulu", nativeName: "isiZulu"
   zul("zul", "Zulu", "isiZulu");
 
