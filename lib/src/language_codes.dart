@@ -68,8 +68,7 @@ enum LanguageCodes {
   ar("ar", "Arabic", "العربية"),
 
   /// code: "ar_AE", name: "Arabic (United Arab Emirates)", nativeName: "العربية (الإمارات العربية المتحدة)"
-  ar_AE("ar_AE", "Arabic (United Arab Emirates)",
-      "العربية (الإمارات العربية المتحدة)"),
+  ar_AE("ar_AE", "Arabic (United Arab Emirates)", "العربية (الإمارات العربية المتحدة)"),
 
   /// code: "ar_BH", name: "Arabic (Bahrain)", nativeName: "العربية (البحرين)"
   ar_BH("ar_BH", "Arabic (Bahrain)", "العربية (البحرين)"),
@@ -174,15 +173,13 @@ enum LanguageCodes {
   az_Cyrl("az_Cyrl", "Azerbaijani (Cyrillic)", "азәрбајҹан дили (кирил)"),
 
   /// code: "az_Cyrl_AZ", name: "Azerbaijani (Cyrillic, Azerbaijan)", nativeName: "азәрбајҹан дили (кирил, Азәрбајҹан)"
-  az_Cyrl_AZ("az_Cyrl_AZ", "Azerbaijani (Cyrillic, Azerbaijan)",
-      "азәрбајҹан дили (кирил, Азәрбајҹан)"),
+  az_Cyrl_AZ("az_Cyrl_AZ", "Azerbaijani (Cyrillic, Azerbaijan)", "азәрбајҹан дили (кирил, Азәрбајҹан)"),
 
   /// code: "az_Latn", name: "Azerbaijani (Latin)", nativeName: "azərbaycan dili (latın)"
   az_Latn("az_Latn", "Azerbaijani (Latin)", "azərbaycan dili (latın)"),
 
   /// code: "az_Latn_AZ", name: "Azerbaijani (Latin, Azerbaijan)", nativeName: "azərbaycan dili (latın, Azərbaycan)"
-  az_Latn_AZ("az_Latn_AZ", "Azerbaijani (Latin, Azerbaijan)",
-      "azərbaycan dili (latın, Azərbaycan)"),
+  az_Latn_AZ("az_Latn_AZ", "Azerbaijani (Latin, Azerbaijan)", "azərbaycan dili (latın, Azərbaycan)"),
 
   /// code: "ba", name: "Bashkir", nativeName: "башҡорт теле"
   ba("ba", "Bashkir", "башҡорт теле"),
@@ -248,8 +245,7 @@ enum LanguageCodes {
   bs("bs", "Bosnian", "bosanski jezik"),
 
   /// code: "bs_BA", name: "Bosnian (Bosnia and Herzegovina)", nativeName: "bosanski jezik (Bosna i Hercegovina)"
-  bs_BA("bs_BA", "Bosnian (Bosnia and Herzegovina)",
-      "bosanski jezik (Bosna i Hercegovina)"),
+  bs_BA("bs_BA", "Bosnian (Bosnia and Herzegovina)", "bosanski jezik (Bosna i Hercegovina)"),
 
   /// code: "ca", name: "Catalan", nativeName: "català"
   ca("ca", "Catalan", "català"),
@@ -278,9 +274,8 @@ enum LanguageCodes {
   /// code: "ch_GU", name: "Chamorro (Guam)", nativeName: "Chamoru (Guåhån)"
   ch_GU("ch_GU", "Chamorro (Guam)", "Chamoru (Guåhån)"),
 
-  /// code: "ch_MP", name: "Chamorro (Northern Mariana Islands)", nativeName: "Chamoru (ʼSankattan Sihàn)"
-  ch_MP("ch_MP", "Chamorro (Northern Mariana Islands)",
-      "Chamoru (ʼSankattan Sihàn)"),
+  /// code: "ch_MP", name: "Chamorro (Northern Mariana Islands)", nativeName: "Chamoru (ʼSankattan Sihàn)"
+  ch_MP("ch_MP", "Chamorro (Northern Mariana Islands)", "Chamoru (ʼSankattan Sihàn)"),
 
   /// code: "co", name: "Corsican", nativeName: "corsu, lingua corsa"
   co("co", "Corsican", "corsu, lingua corsa"),
@@ -298,8 +293,7 @@ enum LanguageCodes {
   cs("cs", "Czech", "čeština, český jazyk"),
 
   /// code: "cs_CZ", name: "Czech (Czech Republic)", nativeName: "čeština, český jazyk (Česká republika)"
-  cs_CZ("cs_CZ", "Czech (Czech Republic)",
-      "čeština, český jazyk (Česká republika)"),
+  cs_CZ("cs_CZ", "Czech (Czech Republic)", "čeština, český jazyk (Česká republika)"),
 
   /// code: "cu", name: "Church Slavic", nativeName: "ѩзыкъ словѣньскъ"
   cu("cu", "Church Slavic", "ѩзыкъ словѣньскъ"),
@@ -386,8 +380,7 @@ enum LanguageCodes {
   en("en", "English", "English"),
 
   /// code: "en_AG", name: "English (Antigua and Barbuda)", nativeName: "English (Antigua and Barbuda)"
-  en_AG("en_AG", "English (Antigua and Barbuda)",
-      "English (Antigua and Barbuda)"),
+  en_AG("en_AG", "English (Antigua and Barbuda)", "English (Antigua and Barbuda)"),
 
   /// code: "en_AI", name: "English (Anguilla)", nativeName: "English (Anguilla)"
   en_AI("en_AI", "English (Anguilla)", "English (Anguilla)"),
@@ -426,8 +419,7 @@ enum LanguageCodes {
   en_CA("en_CA", "English (Canada)", "English (Canada)"),
 
   /// code: "en_CC", name: "English (Cocos (Keeling) Islands)", nativeName: "English (Cocos (Keeling) Islands)"
-  en_CC("en_CC", "English (Cocos (Keeling) Islands)",
-      "English (Cocos (Keeling) Islands)"),
+  en_CC("en_CC", "English (Cocos (Keeling) Islands)", "English (Cocos (Keeling) Islands)"),
 
   /// code: "en_CH", name: "English (Switzerland)", nativeName: "English (Switzerland)"
   en_CH("en_CH", "English (Switzerland)", "English (Switzerland)"),
@@ -463,12 +455,10 @@ enum LanguageCodes {
   en_FJ("en_FJ", "English (Fiji)", "English (Fiji)"),
 
   /// code: "en_FK", name: "English (Falkland Islands (Malvinas))", nativeName: "English (Falkland Islands (Malvinas))"
-  en_FK("en_FK", "English (Falkland Islands (Malvinas))",
-      "English (Falkland Islands (Malvinas))"),
+  en_FK("en_FK", "English (Falkland Islands (Malvinas))", "English (Falkland Islands (Malvinas))"),
 
   /// code: "en_FM", name: "English (Micronesia, Federated States of)", nativeName: "English (Micronesia, Federated States of)"
-  en_FM("en_FM", "English (Micronesia, Federated States of)",
-      "English (Micronesia, Federated States of)"),
+  en_FM("en_FM", "English (Micronesia, Federated States of)", "English (Micronesia, Federated States of)"),
 
   /// code: "en_GB", name: "English (United Kingdom)", nativeName: "English (United Kingdom)"
   en_GB("en_GB", "English (United Kingdom)", "English (United Kingdom)"),
@@ -510,8 +500,7 @@ enum LanguageCodes {
   en_IN("en_IN", "English (India)", "English (India)"),
 
   /// code: "en_IO", name: "English (British Indian Ocean Territory)", nativeName: "English (British Indian Ocean Territory)"
-  en_IO("en_IO", "English (British Indian Ocean Territory)",
-      "English (British Indian Ocean Territory)"),
+  en_IO("en_IO", "English (British Indian Ocean Territory)", "English (British Indian Ocean Territory)"),
 
   /// code: "en_JE", name: "English (Jersey)", nativeName: "English (Jersey)"
   en_JE("en_JE", "English (Jersey)", "English (Jersey)"),
@@ -526,8 +515,7 @@ enum LanguageCodes {
   en_KI("en_KI", "English (Kiribati)", "English (Kiribati)"),
 
   /// code: "en_KN", name: "English (Saint Kitts and Nevis)", nativeName: "English (Saint Kitts and Nevis)"
-  en_KN("en_KN", "English (Saint Kitts and Nevis)",
-      "English (Saint Kitts and Nevis)"),
+  en_KN("en_KN", "English (Saint Kitts and Nevis)", "English (Saint Kitts and Nevis)"),
 
   /// code: "en_KY", name: "English (Cayman Islands)", nativeName: "English (Cayman Islands)"
   en_KY("en_KY", "English (Cayman Islands)", "English (Cayman Islands)"),
@@ -560,8 +548,7 @@ enum LanguageCodes {
   en_MO("en_MO", "English (Macao)", "English (Macao)"),
 
   /// code: "en_MP", name: "English (Northern Mariana Islands)", nativeName: "English (Northern Mariana Islands)"
-  en_MP("en_MP", "English (Northern Mariana Islands)",
-      "English (Northern Mariana Islands)"),
+  en_MP("en_MP", "English (Northern Mariana Islands)", "English (Northern Mariana Islands)"),
 
   /// code: "en_MS", name: "English (Montserrat)", nativeName: "English (Montserrat)"
   en_MS("en_MS", "English (Montserrat)", "English (Montserrat)"),
@@ -648,15 +635,13 @@ enum LanguageCodes {
   en_SS("en_SS", "English (South Sudan)", "English (South Sudan)"),
 
   /// code: "en_SX", name: "English (Sint Maarten (Dutch part))", nativeName: "English (Sint Maarten (Dutch part))"
-  en_SX("en_SX", "English (Sint Maarten (Dutch part))",
-      "English (Sint Maarten (Dutch part))"),
+  en_SX("en_SX", "English (Sint Maarten (Dutch part))", "English (Sint Maarten (Dutch part))"),
 
   /// code: "en_SZ", name: "English (Eswatini)", nativeName: "English (Eswatini)"
   en_SZ("en_SZ", "English (Eswatini)", "English (Eswatini)"),
 
   /// code: "en_TC", name: "English (Turks and Caicos Islands)", nativeName: "English (Turks and Caicos Islands)"
-  en_TC("en_TC", "English (Turks and Caicos Islands)",
-      "English (Turks and Caicos Islands)"),
+  en_TC("en_TC", "English (Turks and Caicos Islands)", "English (Turks and Caicos Islands)"),
 
   /// code: "en_TK", name: "English (Tokelau)", nativeName: "English (Tokelau)"
   en_TK("en_TK", "English (Tokelau)", "English (Tokelau)"),
@@ -665,38 +650,31 @@ enum LanguageCodes {
   en_TO("en_TO", "English (Tonga)", "English (Tonga)"),
 
   /// code: "en_TT", name: "English (Trinidad and Tobago)", nativeName: "English (Trinidad and Tobago)"
-  en_TT("en_TT", "English (Trinidad and Tobago)",
-      "English (Trinidad and Tobago)"),
+  en_TT("en_TT", "English (Trinidad and Tobago)", "English (Trinidad and Tobago)"),
 
   /// code: "en_TV", name: "English (Tuvalu)", nativeName: "English (Tuvalu)"
   en_TV("en_TV", "English (Tuvalu)", "English (Tuvalu)"),
 
   /// code: "en_TZ", name: "English (Tanzania, United Republic of)", nativeName: "English (Tanzania, United Republic of)"
-  en_TZ("en_TZ", "English (Tanzania, United Republic of)",
-      "English (Tanzania, United Republic of)"),
+  en_TZ("en_TZ", "English (Tanzania, United Republic of)", "English (Tanzania, United Republic of)"),
 
   /// code: "en_UG", name: "English (Uganda)", nativeName: "English (Uganda)"
   en_UG("en_UG", "English (Uganda)", "English (Uganda)"),
 
   /// code: "en_UM", name: "English (United States Minor Outlying Islands)", nativeName: "English (United States Minor Outlying Islands)"
-  en_UM("en_UM", "English (United States Minor Outlying Islands)",
-      "English (United States Minor Outlying Islands)"),
+  en_UM("en_UM", "English (United States Minor Outlying Islands)", "English (United States Minor Outlying Islands)"),
 
   /// code: "en_US", name: "English (United States of America)", nativeName: "English (United States of America)"
-  en_US("en_US", "English (United States of America)",
-      "English (United States of America)"),
+  en_US("en_US", "English (United States of America)", "English (United States of America)"),
 
   /// code: "en_VC", name: "English (Saint Vincent and the Grenadines)", nativeName: "English (Saint Vincent and the Grenadines)"
-  en_VC("en_VC", "English (Saint Vincent and the Grenadines)",
-      "English (Saint Vincent and the Grenadines)"),
+  en_VC("en_VC", "English (Saint Vincent and the Grenadines)", "English (Saint Vincent and the Grenadines)"),
 
   /// code: "en_VG", name: "English (Virgin Islands (British))", nativeName: "English (Virgin Islands (British))"
-  en_VG("en_VG", "English (Virgin Islands (British))",
-      "English (Virgin Islands (British))"),
+  en_VG("en_VG", "English (Virgin Islands (British))", "English (Virgin Islands (British))"),
 
   /// code: "en_VI", name: "English (Virgin Islands (U.S.))", nativeName: "English (Virgin Islands (U.S.))"
-  en_VI("en_VI", "English (Virgin Islands (U.S.))",
-      "English (Virgin Islands (U.S.))"),
+  en_VI("en_VI", "English (Virgin Islands (U.S.))", "English (Virgin Islands (U.S.))"),
 
   /// code: "en_VU", name: "English (Vanuatu)", nativeName: "English (Vanuatu)"
   en_VU("en_VU", "English (Vanuatu)", "English (Vanuatu)"),
@@ -747,8 +725,7 @@ enum LanguageCodes {
   es_CU("es_CU", "Spanish (Cuba)", "español (Cuba)"),
 
   /// code: "es_DO", name: "Spanish (Dominican Republic)", nativeName: "español (República Dominicana)"
-  es_DO("es_DO", "Spanish (Dominican Republic)",
-      "español (República Dominicana)"),
+  es_DO("es_DO", "Spanish (Dominican Republic)", "español (República Dominicana)"),
 
   /// code: "es_EC", name: "Spanish (Ecuador)", nativeName: "español (Ecuador)"
   es_EC("es_EC", "Spanish (Ecuador)", "español (Ecuador)"),
@@ -874,12 +851,10 @@ enum LanguageCodes {
   fr_CA("fr_CA", "French (Canada)", "français (Canada)"),
 
   /// code: "fr_CD", name: "French (Congo, The Democratic Republic of the)", nativeName: "français (Congo-Kinshasa)"
-  fr_CD("fr_CD", "French (Congo, The Democratic Republic of the)",
-      "français (Congo-Kinshasa)"),
+  fr_CD("fr_CD", "French (Congo, The Democratic Republic of the)", "français (Congo-Kinshasa)"),
 
   /// code: "fr_CF", name: "French (Central African Republic)", nativeName: "français (République centrafricaine)"
-  fr_CF("fr_CF", "French (Central African Republic)",
-      "français (République centrafricaine)"),
+  fr_CF("fr_CF", "French (Central African Republic)", "français (République centrafricaine)"),
 
   /// code: "fr_CG", name: "French (Congo)", nativeName: "français (Congo-Brazzaville)"
   fr_CG("fr_CG", "French (Congo)", "français (Congo-Brazzaville)"),
@@ -933,8 +908,7 @@ enum LanguageCodes {
   fr_MC("fr_MC", "French (Monaco)", "français (Monaco)"),
 
   /// code: "fr_MF", name: "French (Saint Martin (French part))", nativeName: "français (Saint-Martin (partie française))"
-  fr_MF("fr_MF", "French (Saint Martin (French part))",
-      "français (Saint-Martin (partie française))"),
+  fr_MF("fr_MF", "French (Saint Martin (French part))", "français (Saint-Martin (partie française))"),
 
   /// code: "fr_MG", name: "French (Madagascar)", nativeName: "français (Madagascar)"
   fr_MG("fr_MG", "French (Madagascar)", "français (Madagascar)"),
@@ -961,8 +935,7 @@ enum LanguageCodes {
   fr_PF("fr_PF", "French (French Polynesia)", "français (Polynésie française)"),
 
   /// code: "fr_PM", name: "French (Saint Pierre and Miquelon)", nativeName: "français (Saint-Pierre-et-Miquelon)"
-  fr_PM("fr_PM", "French (Saint Pierre and Miquelon)",
-      "français (Saint-Pierre-et-Miquelon)"),
+  fr_PM("fr_PM", "French (Saint Pierre and Miquelon)", "français (Saint-Pierre-et-Miquelon)"),
 
   /// code: "fr_RE", name: "French (Réunion)", nativeName: "français (La Réunion)"
   fr_RE("fr_RE", "French (Réunion)", "français (La Réunion)"),
@@ -1013,8 +986,7 @@ enum LanguageCodes {
   gd("gd", "Scottish Gaelic", "Gàidhlig"),
 
   /// code: "gd_GB", name: "Scottish Gaelic (United Kingdom)", nativeName: "Gàidhlig (An Rìoghachd Aonaichte)"
-  gd_GB("gd_GB", "Scottish Gaelic (United Kingdom)",
-      "Gàidhlig (An Rìoghachd Aonaichte)"),
+  gd_GB("gd_GB", "Scottish Gaelic (United Kingdom)", "Gàidhlig (An Rìoghachd Aonaichte)"),
 
   /// code: "gl", name: "Galician", nativeName: "galego"
   gl("gl", "Galician", "galego"),
@@ -1068,15 +1040,13 @@ enum LanguageCodes {
   ho("ho", "Hiri Motu", "Hiri Motu"),
 
   /// code: "ho_PG", name: "Hiri Motu (Papua New Guinea)", nativeName: "Hiri Motu (Papua New Guinea)"
-  ho_PG(
-      "ho_PG", "Hiri Motu (Papua New Guinea)", "Hiri Motu (Papua New Guinea)"),
+  ho_PG("ho_PG", "Hiri Motu (Papua New Guinea)", "Hiri Motu (Papua New Guinea)"),
 
   /// code: "hr", name: "Croatian", nativeName: "hrvatski"
   hr("hr", "Croatian", "hrvatski"),
 
   /// code: "hr_BA", name: "Croatian (Bosnia and Herzegovina)", nativeName: "hrvatski (Bosna i Hercegovina)"
-  hr_BA("hr_BA", "Croatian (Bosnia and Herzegovina)",
-      "hrvatski (Bosna i Hercegovina)"),
+  hr_BA("hr_BA", "Croatian (Bosnia and Herzegovina)", "hrvatski (Bosna i Hercegovina)"),
 
   /// code: "hr_HR", name: "Croatian (Croatia)", nativeName: "hrvatski (Hrvatska)"
   hr_HR("hr_HR", "Croatian (Croatia)", "hrvatski (Hrvatska)"),
@@ -1121,8 +1091,7 @@ enum LanguageCodes {
   ie("ie", "Interlingue; Occidental", "Interlingue"),
 
   /// code: "ie", name: "Interlingue; Occidental (World)", nativeName: "Interlingue (Mondo)"
-  ie_World(
-      "ie_World", "Interlingue; Occidental (World)", "Interlingue (Mondo)"),
+  ie_World("ie_World", "Interlingue; Occidental (World)", "Interlingue (Mondo)"),
 
   /// code: "ig", name: "Igbo", nativeName: "Igbo"
   ig("ig", "Igbo", "Igbo"),
@@ -1302,8 +1271,7 @@ enum LanguageCodes {
   li("li", "Limburgish; Limburger; Limburgan", "Limburgs"),
 
   /// code: "li_BE", name: "Limburgish; Limburger; Limburgan (Belgium)", nativeName: "Limburgs (Belsch)"
-  li_BE("li_BE", "Limburgish; Limburger; Limburgan (Belgium)",
-      "Limburgs (Belsch)"),
+  li_BE("li_BE", "Limburgish; Limburger; Limburgan (Belgium)", "Limburgs (Belsch)"),
 
   /// code: "ln", name: "Lingala", nativeName: "lingála"
   ln("ln", "Lingala", "lingála"),
@@ -1312,12 +1280,10 @@ enum LanguageCodes {
   ln_AO("ln_AO", "Lingala (Angola)", "lingála (Angóla)"),
 
   /// code: "ln_CD", name: "Lingala (Congo, The Democratic Republic of the)", nativeName: "lingála (Kongó-Kinshasa)"
-  ln_CD("ln_CD", "Lingala (Congo, The Democratic Republic of the)",
-      "lingála (Kongó-Kinshasa)"),
+  ln_CD("ln_CD", "Lingala (Congo, The Democratic Republic of the)", "lingála (Kongó-Kinshasa)"),
 
   /// code: "ln_CF", name: "Lingala (Central African Republic)", nativeName: "lingála (Repibiki ya Afríka ya Káti)"
-  ln_CF("ln_CF", "Lingala (Central African Republic)",
-      "lingála (Repibiki ya Afríka ya Káti)"),
+  ln_CF("ln_CF", "Lingala (Central African Republic)", "lingála (Repibiki ya Afríka ya Káti)"),
 
   /// code: "ln_CG", name: "Lingala (Congo)", nativeName: "lingála (Kongo)"
   ln_CG("ln_CG", "Lingala (Congo)", "lingála (Kongo)"),
@@ -1338,8 +1304,7 @@ enum LanguageCodes {
   lu("lu", "Luba-Katanga", "Tshiluba"),
 
   /// code: "lu_CD", name: "Luba-Katanga (Congo, The Democratic Republic of the)", nativeName: "Tshiluba (Ditunga wa Kongu)"
-  lu_CD("lu_CD", "Luba-Katanga (Congo, The Democratic Republic of the)",
-      "Tshiluba (Ditunga wa Kongu)"),
+  lu_CD("lu_CD", "Luba-Katanga (Congo, The Democratic Republic of the)", "Tshiluba (Ditunga wa Kongu)"),
 
   /// code: "lv", name: "Latvian", nativeName: "latviešu valoda"
   lv("lv", "Latvian", "latviešu valoda"),
@@ -1369,8 +1334,7 @@ enum LanguageCodes {
   mk("mk", "Macedonian", "македонски јазик"),
 
   /// code: "mk_MK", name: "Macedonian (North Macedonia)", nativeName: "македонски јазик (Северна Македонија)"
-  mk_MK("mk_MK", "Macedonian (North Macedonia)",
-      "македонски јазик (Северна Македонија)"),
+  mk_MK("mk_MK", "Macedonian (North Macedonia)", "македонски јазик (Северна Македонија)"),
 
   /// code: "ml", name: "Malayalam", nativeName: "മലയാളം"
   ml("ml", "Malayalam", "മലയാളം"),
@@ -1394,8 +1358,7 @@ enum LanguageCodes {
   ms("ms", "Malay", "Bahasa Melayu"),
 
   /// code: "ms_BN", name: "Malay (Brunei Darussalam)", nativeName: "Bahasa Melayu (Brunei Darussalam)"
-  ms_BN("ms_BN", "Malay (Brunei Darussalam)",
-      "Bahasa Melayu (Brunei Darussalam)"),
+  ms_BN("ms_BN", "Malay (Brunei Darussalam)", "Bahasa Melayu (Brunei Darussalam)"),
 
   /// code: "ms_MY", name: "Malay (Malaysia)", nativeName: "Bahasa Melayu (Malaysia)"
   ms_MY("ms_MY", "Malay (Malaysia)", "Bahasa Melayu (Malaysia)"),
@@ -1458,8 +1421,7 @@ enum LanguageCodes {
   nl_BE("nl_BE", "Dutch (Belgium)", "Nederlands (België)"),
 
   /// code: "nl_BQ", name: "Dutch (Bonaire, Sint Eustatius and Saba)", nativeName: "Nederlands (Bonaire, Sint Eustatius en Saba)"
-  nl_BQ("nl_BQ", "Dutch (Bonaire, Sint Eustatius and Saba)",
-      "Nederlands (Bonaire, Sint Eustatius en Saba)"),
+  nl_BQ("nl_BQ", "Dutch (Bonaire, Sint Eustatius and Saba)", "Nederlands (Bonaire, Sint Eustatius en Saba)"),
 
   /// code: "nl_CW", name: "Dutch (Curaçao)", nativeName: "Nederlands (Curaçao)"
   nl_CW("nl_CW", "Dutch (Curaçao)", "Nederlands (Curaçao)"),
@@ -1495,8 +1457,7 @@ enum LanguageCodes {
   nv("nv", "Navajo; Navaho", "Diné bizaad"),
 
   /// code: "nv_US", name: "Navajo; Navaho (United States)", nativeName: "Diné bizaad (United States)"
-  nv_US(
-      "nv_US", "Navajo; Navaho (United States)", "Diné bizaad (United States)"),
+  nv_US("nv_US", "Navajo; Navaho (United States)", "Diné bizaad (United States)"),
 
   /// code: "ny", name: "Chichewa", nativeName: "chiCheŵa"
   ny("ny", "Chichewa", "chiCheŵa"),
@@ -1592,8 +1553,7 @@ enum LanguageCodes {
   pt_CV("pt_CV", "Portuguese (Cape Verde)", "Português (Cabo Verde)"),
 
   /// code: "pt_GQ", name: "Portuguese (Equatorial Guinea)", nativeName: "português (Guiné Equatorial)"
-  pt_GQ("pt_GQ", "Portuguese (Equatorial Guinea)",
-      "português (Guiné Equatorial)"),
+  pt_GQ("pt_GQ", "Portuguese (Equatorial Guinea)", "português (Guiné Equatorial)"),
 
   /// code: "pt_GW", name: "Portuguese (Guinea-Bissau)", nativeName: "português (Guiné-Bissau)"
   pt_GW("pt_GW", "Portuguese (Guinea-Bissau)", "português (Guiné-Bissau)"),
@@ -1611,8 +1571,7 @@ enum LanguageCodes {
   pt_PT("pt_PT", "Portuguese (Portugal)", "português (Portugal)"),
 
   /// code: "pt_ST", name: "Portuguese (São Tomé and Príncipe)", nativeName: "português (São Tomé e Príncipe)"
-  pt_ST("pt_ST", "Portuguese (São Tomé and Príncipe)",
-      "português (São Tomé e Príncipe)"),
+  pt_ST("pt_ST", "Portuguese (São Tomé and Príncipe)", "português (São Tomé e Príncipe)"),
 
   /// code: "pt_TL", name: "Portuguese (Timor-Leste)", nativeName: "português (Timor-Leste)"
   pt_TL("pt_TL", "Portuguese (Timor-Leste)", "português (Timor-Leste)"),
@@ -1720,19 +1679,16 @@ enum LanguageCodes {
   sg("sg", "Sango", "yângâ tî sängö"),
 
   /// code: "sg_CF", name: "Sango (Central African Republic)", nativeName: "yângâ tî sängö (Ködörösêse tî Bêafrîka)"
-  sg_CF("sg_CF", "Sango (Central African Republic)",
-      "yângâ tî sängö (Ködörösêse tî Bêafrîka)"),
+  sg_CF("sg_CF", "Sango (Central African Republic)", "yângâ tî sängö (Ködörösêse tî Bêafrîka)"),
 
   /// code: "sh", name: "Serbo-Croatian", nativeName: "Srpskohrvatski"
   sh("sh", "Serbo-Croatian", "Srpskohrvatski"),
 
   /// code: "sh_BA", name: "Serbo-Croatian (Bosnia and Herzegovina)", nativeName: "Srpskohrvatski (Bosna i Hercegovina)"
-  sh_BA("sh_BA", "Serbo-Croatian (Bosnia and Herzegovina)",
-      "Srpskohrvatski (Bosna i Hercegovina)"),
+  sh_BA("sh_BA", "Serbo-Croatian (Bosnia and Herzegovina)", "Srpskohrvatski (Bosna i Hercegovina)"),
 
   /// code: "sh_CS", name: "Serbo-Croatian (Serbia and Montenegro)", nativeName: "Srpskohrvatski (Srbija i Crna Gora)"
-  sh_CS("sh_CS", "Serbo-Croatian (Serbia and Montenegro)",
-      "Srpskohrvatski (Srbija i Crna Gora)"),
+  sh_CS("sh_CS", "Serbo-Croatian (Serbia and Montenegro)", "Srpskohrvatski (Srbija i Crna Gora)"),
 
   /// code: "sh_YU", name: "Serbo-Croatian (Yugoslavia)", nativeName: "Srpskohrvatski (Jugoslavija)"
   sh_YU("sh_YU", "Serbo-Croatian (Yugoslavia)", "Srpskohrvatski (Jugoslavija)"),
@@ -1759,8 +1715,7 @@ enum LanguageCodes {
   sm("sm", "Samoan", "gagana fa'a Samoa"),
 
   /// code: "sm_AS", name: "Samoan (American Samoa)", nativeName: "gagana fa'a Samoa (Sāmoa Amelika)"
-  sm_AS(
-      "sm_AS", "Samoan (American Samoa)", "gagana fa'a Samoa (Sāmoa Amelika)"),
+  sm_AS("sm_AS", "Samoan (American Samoa)", "gagana fa'a Samoa (Sāmoa Amelika)"),
 
   /// code: "sm_WS", name: "Samoan (Samoa)", nativeName: "gagana fa'a Samoa (Samoa)"
   sm_WS("sm_WS", "Samoan (Samoa)", "gagana fa'a Samoa (Samoa)"),
@@ -1796,46 +1751,37 @@ enum LanguageCodes {
   sr("sr", "Serbian", "српски језик"),
 
   /// code: "sr_BA", name: "Serbian (Bosnia and Herzegovina)", nativeName: "српски језик (Босна и Херцеговина)"
-  sr_BA("sr_BA", "Serbian (Bosnia and Herzegovina)",
-      "српски језик (Босна и Херцеговина)"),
+  sr_BA("sr_BA", "Serbian (Bosnia and Herzegovina)", "српски језик (Босна и Херцеговина)"),
 
   /// code: "sr_CS", name: "Serbian (Serbia and Montenegro)", nativeName: "српски језик (Србија и Црна Гора)"
-  sr_CS("sr_CS", "Serbian (Serbia and Montenegro)",
-      "српски језик (Србија и Црна Гора)"),
+  sr_CS("sr_CS", "Serbian (Serbia and Montenegro)", "српски језик (Србија и Црна Гора)"),
 
   /// code: "sr_Cyrl", name: "Serbian (Cyrillic)", nativeName: "српски језик"
   sr_Cyrl("sr_Cyrl", "Serbian (Cyrillic)", "српски језик"),
 
   /// code: "sr_Cyrl_BA", name: "Serbian (Cyrillic, Bosnia and Herzegovina)", nativeName: "српски језик (ћирилица, Босна и Херцеговина)"
-  sr_Cyrl_BA("sr_Cyrl_BA", "Serbian (Cyrillic, Bosnia and Herzegovina)",
-      "српски језик (ћирилица, Босна и Херцеговина)"),
+  sr_Cyrl_BA("sr_Cyrl_BA", "Serbian (Cyrillic, Bosnia and Herzegovina)", "српски језик (ћирилица, Босна и Херцеговина)"),
 
   /// code: "sr_Cyrl_CS", name: "Serbian (Cyrillic, Serbia and Montenegro)", nativeName: "српски језик (ћирилица, Србија и Црна Гора)"
-  sr_Cyrl_CS("sr_Cyrl_CS", "Serbian (Cyrillic, Serbia and Montenegro)",
-      "српски језик (ћирилица, Србија и Црна Гора)"),
+  sr_Cyrl_CS("sr_Cyrl_CS", "Serbian (Cyrillic, Serbia and Montenegro)", "српски језик (ћирилица, Србија и Црна Гора)"),
 
   /// code: "sr_Cyrl_ME", name: "Serbian (Cyrillic, Montenegro)", nativeName: "српски језик (ћирилица, Црна Гора)"
-  sr_Cyrl_ME("sr_Cyrl_ME", "Serbian (Cyrillic, Montenegro)",
-      "српски језик (ћирилица, Црна Гора)"),
+  sr_Cyrl_ME("sr_Cyrl_ME", "Serbian (Cyrillic, Montenegro)", "српски језик (ћирилица, Црна Гора)"),
 
   /// code: "sr_Cyrl_RS", name: "Serbian (Cyrillic, Serbia)", nativeName: "српски језик (ћирилица, Србија)"
-  sr_Cyrl_RS("sr_Cyrl_RS", "Serbian (Cyrillic, Serbia)",
-      "српски језик (ћирилица, Србија)"),
+  sr_Cyrl_RS("sr_Cyrl_RS", "Serbian (Cyrillic, Serbia)", "српски језик (ћирилица, Србија)"),
 
   /// code: "sr_Latn", name: "Serbian (Latin)", nativeName: "srpski jezik"
   sr_Latn("sr_Latn", "Serbian (Latin)", "srpski jezik"),
 
   /// code: "sr_Latn_BA", name: "Serbian (Latin, Bosnia and Herzegovina)", nativeName: "srpski jezik (Bosna i Hercegovina)"
-  sr_Latn_BA("sr_Latn_BA", "Serbian (Latin, Bosnia and Herzegovina)",
-      "srpski jezik (Bosna i Hercegovina)"),
+  sr_Latn_BA("sr_Latn_BA", "Serbian (Latin, Bosnia and Herzegovina)", "srpski jezik (Bosna i Hercegovina)"),
 
   /// code: "sr_Latn_CS", name: "Serbian (Latin, Serbia and Montenegro)", nativeName: "srpski jezik (Srbija i Crna Gora)"
-  sr_Latn_CS("sr_Latn_CS", "Serbian (Latin, Serbia and Montenegro)",
-      "srpski jezik (Srbija i Crna Gora)"),
+  sr_Latn_CS("sr_Latn_CS", "Serbian (Latin, Serbia and Montenegro)", "srpski jezik (Srbija i Crna Gora)"),
 
   /// code: "sr_Latn_ME", name: "Serbian (Latin, Montenegro)", nativeName: "srpski jezik (Crna Gora)"
-  sr_Latn_ME(
-      "sr_Latn_ME", "Serbian (Latin, Montenegro)", "srpski jezik (Crna Gora)"),
+  sr_Latn_ME("sr_Latn_ME", "Serbian (Latin, Montenegro)", "srpski jezik (Crna Gora)"),
 
   /// code: "sr_Latn_RS", name: "Serbian (Latin, Serbia)", nativeName: "srpski jezik (Srbija)"
   sr_Latn_RS("sr_Latn_RS", "Serbian (Latin, Serbia)", "srpski jezik (Srbija)"),
@@ -1889,8 +1835,7 @@ enum LanguageCodes {
   sw("sw", "Swahili", "Kiswahili"),
 
   /// code: "sw_CD", name: "Swahili (Congo - Kinshasa)", nativeName: "Kiswahili (Jamhuri ya Kidemokrasia ya Kongo)"
-  sw_CD("sw_CD", "Swahili (Congo - Kinshasa)",
-      "Kiswahili (Jamhuri ya Kidemokrasia ya Kongo)"),
+  sw_CD("sw_CD", "Swahili (Congo - Kinshasa)", "Kiswahili (Jamhuri ya Kidemokrasia ya Kongo)"),
 
   /// code: "sw_KE", name: "Swahili (Kenya)", nativeName: "Kiswahili (Kenya)"
   sw_KE("sw_KE", "Swahili (Kenya)", "Kiswahili (Kenya)"),
@@ -2001,8 +1946,7 @@ enum LanguageCodes {
   ty("ty", "Tahitian", "Reo Tahiti"),
 
   /// code: "ty_PF", name: "Tahitian (French Polynesia)", nativeName: "Reo Tahiti (Polynésie française)"
-  ty_PF("ty_PF", "Tahitian (French Polynesia)",
-      "Reo Tahiti (Polynésie française)"),
+  ty_PF("ty_PF", "Tahitian (French Polynesia)", "Reo Tahiti (Polynésie française)"),
 
   /// code: "ug", name: "Uighur", nativeName: "Uyƣurqə"
   ug("ug", "Uighur", "Uyƣurqə"),
@@ -2041,8 +1985,7 @@ enum LanguageCodes {
   uz_Cyrl("uz_Cyrl", "Uzbek (Cyrillic)", "Ўзбек"),
 
   /// code: "uz_Cyrl_UZ", name: "Uzbek (Cyrillic, Uzbekistan)", nativeName: "Ўзбек (Ўзбекистон)"
-  uz_Cyrl_UZ(
-      "uz_Cyrl_UZ", "Uzbek (Cyrillic, Uzbekistan)", "Ўзбек (Ўзбекистон)"),
+  uz_Cyrl_UZ("uz_Cyrl_UZ", "Uzbek (Cyrillic, Uzbekistan)", "Ўзбек (Ўзбекистон)"),
 
   /// code: "uz_Latn", name: "Uzbek (Latin)", nativeName: "Oʻzbek"
   uz_Latn("uz_Latn", "Uzbek (Latin)", "Oʻzbek"),
@@ -2123,12 +2066,10 @@ enum LanguageCodes {
   zh_Hans_CN("zh_Hans_CN", "Chinese (Simplified, China)", "简体中文 (中国)"),
 
   /// code: "zh_Hans_HK", name: "Chinese (Simplified, Hong Kong SAR China)", nativeName: "简体中文 (中华人民共和国香港特别行政区)"
-  zh_Hans_HK("zh_Hans_HK", "Chinese (Simplified, Hong Kong SAR China)",
-      "简体中文 (中华人民共和国香港特别行政区)"),
+  zh_Hans_HK("zh_Hans_HK", "Chinese (Simplified, Hong Kong SAR China)", "简体中文 (中华人民共和国香港特别行政区)"),
 
   /// code: "zh_Hans_MO", name: "Chinese (Simplified, Macao SAR China)", nativeName: "简体中文 (中华人民共和国澳门特别行政区)"
-  zh_Hans_MO("zh_Hans_MO", "Chinese (Simplified, Macao SAR China)",
-      "简体中文 (中华人民共和国澳门特别行政区)"),
+  zh_Hans_MO("zh_Hans_MO", "Chinese (Simplified, Macao SAR China)", "简体中文 (中华人民共和国澳门特别行政区)"),
 
   /// code: "zh_Hans_SG", name: "Chinese (Simplified, Singapore)", nativeName: "简体中文 (新加坡)"
   zh_Hans_SG("zh_Hans_SG", "Chinese (Simplified, Singapore)", "简体中文 (新加坡)"),
@@ -2137,12 +2078,10 @@ enum LanguageCodes {
   zh_Hant("zh_Hant", "Chinese (Traditional)", "繁體中文"),
 
   /// code: "zh_Hant_HK", name: "Chinese (Traditional, Hong Kong SAR China)", nativeName: "繁體中文 (中華人民共和國香港特別行政區)"
-  zh_Hant_HK("zh_Hant_HK", "Chinese (Traditional, Hong Kong SAR China)",
-      "繁體中文 (中華人民共和國香港特別行政區)"),
+  zh_Hant_HK("zh_Hant_HK", "Chinese (Traditional, Hong Kong SAR China)", "繁體中文 (中華人民共和國香港特別行政區)"),
 
   /// code: "zh_Hant_MO", name: "Chinese (Traditional, Macao SAR China)", nativeName: "繁體中文 (中華人民共和國澳門特別行政區)"
-  zh_Hant_MO("zh_Hant_MO", "Chinese (Traditional, Macao SAR China)",
-      "繁體中文 (中華人民共和國澳門特別行政區)"),
+  zh_Hant_MO("zh_Hant_MO", "Chinese (Traditional, Macao SAR China)", "繁體中文 (中華人民共和國澳門特別行政區)"),
 
   /// code: "zh_Hant_TW", name: "Chinese (Traditional, Taiwan)", nativeName: "繁體中文 (台灣)"
   zh_Hant_TW("zh_Hant_TW", "Chinese (Traditional, Taiwan)", "繁體中文 (台灣)"),
@@ -2172,8 +2111,7 @@ enum LanguageCodes {
   ara_EG("ara_EG", "Arabic (Egypt)", "العربية (مصر)"),
 
   /// code: "ara_SA", name: "Arabic (Saudi Arabia)", nativeName: "العربية (المملكة العربية السعودية)"
-  ara_SA(
-      "ara_SA", "Arabic (Saudi Arabia)", "العربية (المملكة العربية السعودية)"),
+  ara_SA("ara_SA", "Arabic (Saudi Arabia)", "العربية (المملكة العربية السعودية)"),
 
   /// code: "aze", name: "Azerbaijani", nativeName: "azərbaycan dili"
   aze("aze", "Azerbaijani", "azərbaycan dili"),
@@ -2458,8 +2396,7 @@ enum LanguageCodes {
   nso("nso", "Northern Sotho", "Sesotho sa Leboa"),
 
   /// code: "nso_ZA", name: "Northern Sotho (South Africa)", nativeName: "Sesotho sa Leboa (Afrika Borwa)"
-  nso_ZA("nso_ZA", "Northern Sotho (South Africa)",
-      "Sesotho sa Leboa (Afrika Borwa)"),
+  nso_ZA("nso_ZA", "Northern Sotho (South Africa)", "Sesotho sa Leboa (Afrika Borwa)"),
 
   /// code: "nya", name: "Chichewa", nativeName: "chiCheŵa"
   nya("nya", "Chichewa", "chiCheŵa"),
@@ -2630,40 +2567,22 @@ enum LanguageCodes {
   zho_TW("zho_TW", "Chinese (Taiwan)", "中文(台灣)"),
 
   /// code: "mni-IN", name: "Meitei (India)", nativeName: "মৈতৈলোন্ (ইন্ডিয়া)"
-mni_IN("mni_IN", "Meitei (India)", "মৈতৈলোন্ (ইন্ডিয়া)"),
+  mni_IN("mni_IN", "Meitei (India)", "মৈতৈলোন্ (ইন্ডিয়া)"),
 
-/// code: "doi-IN", name: "Dogri (India)", nativeName: "डोगरी (भारत)"
-doi_IN("doi_IN", "Dogri (India)", "डोगरी (भारत)"),
+  /// code: "doi-IN", name: "Dogri (India)", nativeName: "डोगरी (भारत)"
+  doi_IN("doi_IN", "Dogri (India)", "डोगरी (भारत)"),
 
-/// code: "sat-IN", name: "Santali (India)", nativeName: "ᱥᱟᱱᱛᱟᱲᱤ (ᱟᱢᱩᱰᱤ)"
-sat_IN("sat_IN", "Santali (India)", "ᱥᱟᱱᱛᱟᱲᱤ (ᱟᱢᱩᱰᱤ)"),
+  /// code: "sat-IN", name: "Santali (India)", nativeName: "ᱥᱟᱱᱛᱟᱲᱤ (ᱟᱢᱩᱰᱤ)"
+  sat_IN("sat_IN", "Santali (India)", "ᱥᱟᱱᱛᱟᱲᱤ (ᱟᱢᱩᱰᱤ)"),
 
-/// code: "brx-IN", name: "Bodo (India)", nativeName: "बर' (भारत)"
-brx_IN("brx_IN", "Bodo (India)", "बर' (भारत)"),
+  /// code: "brx-IN", name: "Bodo (India)", nativeName: "बर' (भारत)"
+  brx_IN("brx_IN", "Bodo (India)", "बर' (भारत)"),
 
-/// code: "doi-IN", name: "Dogri (India)", nativeName: "डोगरी (भारत)"
-doi_IN("doi_IN", "Dogri (India)", "डोगरी (भारत)"),
+  /// code: "mai-IN", name: "Maithili (India)", nativeName: "मैथिली (भारत)"
+  mai_IN("mai_IN", "Maithili (India)", "मैथिली (भारत)"),
 
-/// code: "mai-IN", name: "Maithili (India)", nativeName: "मैथिली (भारत)"
-mai_IN("mai_IN", "Maithili (India)", "मैथिली (भारत)"),
-
-/// code: "sat-IN", name: "Santali (India)", nativeName: "ᱥᱟᱱᱛᱟᱲᱤ (ᱟᱢᱩᱰᱤ)"
-sat_IN("sat_IN", "Santali (India)", "ᱥᱟᱱᱛᱟᱲᱤ (ᱟᱢᱩᱰᱤ)"),
-
-/// code: "brx-IN", name: "Bodo (India)", nativeName: "बर' (भारत)"
-brx_IN("brx_IN", "Bodo (India)", "बर' (भारत)"),
-
-/// code: "mni-IN", name: "Meitei (India)", nativeName: "মৈতৈলোন্ (ইন্ডিয়া)"
-mni_IN("mni_IN", "Meitei (India)", "মৈতৈলোন্ (ইন্ডিয়া)"),
-
-/// code: "kok-IN", name: "Konkani (India)", nativeName: "कोंकणी (भारत)"
-kok_IN("kok_IN", "Konkani (India)", "कोंकणी (भारत)"),
-
-/// code: "mai-IN", name: "Maithili (India)", nativeName: "मैथिली (भारत)"
-mai_IN("mai_IN", "Maithili (India)", "मैथिली (भारत)"),
-
-/// code: "kok-IN", name: "Konkani (India)", nativeName: "कोंकणी (भारत)"
-kok_IN("kok_IN", "Konkani (India)", "कोंकणी (भारत)"),
+  /// code: "kok-IN", name: "Konkani (India)", nativeName: "कोंकणी (भारत)"
+  kok_IN("kok_IN", "Konkani (India)", "कोंकणी (भारत)"),
 
   /// Unknown
   unknown("Unknown", "Unknown", "Unknown"),
@@ -2724,24 +2643,21 @@ kok_IN("kok_IN", "Konkani (India)", "कोंकणी (भारत)"),
     String code, {
     LanguageCodes Function()? orElse,
   }) {
-    return LanguageCodes.values
-        .singleWhere((element) => element.code == code, orElse: orElse);
+    return LanguageCodes.values.singleWhere((element) => element.code == code, orElse: orElse);
   }
 
   /// Get [LanguageCodes] from [englishName]. If no matching element is found,
   /// returns the result of [orElse]. If [orElse] is omitted, it defaults to
   /// throwing a [StateError].
   static Iterable<LanguageCodes> fromEnglishName(String englishName) {
-    return LanguageCodes.values
-        .where((element) => element.englishName == englishName);
+    return LanguageCodes.values.where((element) => element.englishName == englishName);
   }
 
   /// Get [LanguageCodes] from [nativeName]. If no matching element is found,
   /// returns the result of [orElse]. If [orElse] is omitted, it defaults to
   /// throwing a [StateError].
   static Iterable<LanguageCodes> fromNativeName(String nativeName) {
-    return LanguageCodes.values
-        .where((element) => element.nativeName == nativeName);
+    return LanguageCodes.values.where((element) => element.nativeName == nativeName);
   }
 
   /// Get [LanguageCodes] from [Locale]. If no matching element is found,
