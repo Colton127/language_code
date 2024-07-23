@@ -2421,6 +2421,12 @@ enum LanguageCodes {
   /// code: "ltz", name: "Luxembourgish", nativeName: "Lëtzebuergesch"
   ltz("ltz", "Luxembourgish", "Lëtzebuergesch"),
 
+  /// code: "mai", name: "Maithili", nativeName: "मैथिली"
+  mai("mai", "Maithili", "मैथिली"),
+
+  /// code: "mai_IN", name: "Maithili (India)", nativeName: "मैथिली (भारत)"
+  mai_IN("mai_IN", "Maithili (India)", "मैथिली (भारत)"),
+
   /// code: "mal", name: "Malayalam", nativeName: "മലയാളം"
   mal("mal", "Malayalam", "മലയാളം"),
 
