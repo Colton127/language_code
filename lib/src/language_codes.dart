@@ -1384,6 +1384,12 @@ enum LanguageCodes {
   /// code: "mn_MN", name: "Mongolian (Mongolia)", nativeName: "Монгол хэл (Монгол улс)"
   mn_MN("mn_MN", "Mongolian (Mongolia)", "Монгол хэл (Монгол улс)"),
 
+  /// code: "mni", name: "Manipuri", nativeName: "মৈতৈলোন্"
+  mni("mni", "Manipuri", "মৈতৈলোন্"),
+
+  /// code: "mni_IN", name: "Manipuri (India)", nativeName: "মৈতৈলোন্ (ভারত)"
+  mni_IN("mni_IN", "Manipuri (India)", "মৈতৈলোন্ (ভারত)"),
+
   /// code: "mr", name: "Marathi", nativeName: "मराठी"
   mr("mr", "Marathi", "मराठी"),
 
